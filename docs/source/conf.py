@@ -34,7 +34,7 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     'body_min_width' : '60%',
     'body_max_width' : 'none',
-    'page_width': 'auto'
+    # 'page_width': 'auto'
 }
 
 # -- Options for EPUB output
